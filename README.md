@@ -1,4 +1,6 @@
-## Emotional Scanner 
+
+![alt text](https://github.com/ReneGarzaM/EmotionalScanner/blob/main/EmotionalScanner.PNG)
+ 
 The Emotional Scanner is a methodology created by Centro Inclusivo Kuroi, my family’s specialized school for **children with
 disabilities and mental health challenges**, which screens twelve areas of wellness and their risk level in middle and high school
 students. 
