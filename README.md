@@ -16,4 +16,5 @@ Also, I have included a brief description of some of the steps I have taken into
 ## Usage
 By running the Jupyter Notebook , and answering the questions using a 1 to 4 scale , a diagnostic is generated and a custom SuperHero image is generated and displayed.
 
-	![alt text](https://github.com/ReneGarzaM/EmotionalScanner/blob/main/result.jpeg)
+## Example
+![alt text](https://github.com/ReneGarzaM/EmotionalScanner/blob/main/result.jpeg)
